@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|c:\\users\\dell\\source\\repos\\authsystem\\authsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{983EEEAB-2760-41FC-B727-6001E11A9312}|Chat\\Chat.csproj|c:\\users\\dell\\source\\repos\\authsystem\\chat\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{983EEEAB-2760-41FC-B727-6001E11A9312}|Chat\\Chat.csproj|solutionrelative:chat\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|C:\\Users\\Dell\\source\\repos\\AuthSystem\\authsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{983EEEAB-2760-41FC-B727-6001E11A9312}|Chat\\Chat.csproj|c:\\users\\dell\\source\\repos\\authsystem\\chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983EEEAB-2760-41FC-B727-6001E11A9312}|Chat\\Chat.csproj|solutionrelative:chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|C:\\Users\\Dell\\source\\repos\\AuthSystem\\authsystem\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{983EEEAB-2760-41FC-B727-6001E11A9312}|Chat\\Chat.csproj|c:\\users\\dell\\source\\repos\\authsystem\\chat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983EEEAB-2760-41FC-B727-6001E11A9312}|Chat\\Chat.csproj|solutionrelative:chat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|C:\\Users\\Dell\\source\\repos\\AuthSystem\\authsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|C:\\Users\\Dell\\source\\repos\\AuthSystem\\authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|C:\\Users\\Dell\\source\\repos\\AuthSystem\\authsystem\\areas\\identity\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|C:\\Users\\Dell\\source\\repos\\AuthSystem\\authsystem\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|C:\\Users\\Dell\\source\\repos\\AuthSystem\\authsystem\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|C:\\Users\\Dell\\source\\repos\\AuthSystem\\authsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CC205A65-182B-4FC7-B17E-CF702868D190}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{983EEEAB-2760-41FC-B727-6001E11A9312}|Chat\\Chat.csproj|c:\\users\\dell\\source\\repos\\authsystem\\chat\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{983EEEAB-2760-41FC-B727-6001E11A9312}|Chat\\Chat.csproj|solutionrelative:chat\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,112 +34,55 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\Chat\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Chat\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\Chat\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Chat\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T06:06:44.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T11:05:00.339Z",
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\Chat\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "Chat\\wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\Chat\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "Chat\\wwwroot\\js\\chat.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-28T06:03:15.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAwwFQAAAAiAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\Chat\\Program.cs",
+              "RelativeDocumentMoniker": "Chat\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\Chat\\Program.cs",
+              "RelativeToolTip": "Chat\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T11:03:30.707Z"
+              "WhenOpened": "2024-05-28T05:57:28.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "AuthSystem\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-26T11:02:43.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
-              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
-              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\Chat\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Chat\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\Chat\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Chat\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T09:07:14.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
-              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T09:04:45.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "AuthSystem\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "AuthSystem\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAABUAAAAAAAAAAAAswCYAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-26T08:40:34.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_AuthLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
-              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
-              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-26T08:25:10.094Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AuthSystem\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-26T08:22:53.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\Program.cs",
-              "RelativeDocumentMoniker": "AuthSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthSystem\\AuthSystem\\Program.cs",
-              "RelativeToolTip": "AuthSystem\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T08:18:32.254Z"
+              "WhenOpened": "2024-05-28T05:52:39.705Z",
+              "EditorCaption": ""
             }
           ]
         }
